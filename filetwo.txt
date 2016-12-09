@@ -2,3 +2,4 @@ file2
 chinku checking the fetch
 10:43
 10:48
+adding a line of text to demonstarte amending the commit.
