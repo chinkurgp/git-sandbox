@@ -3,4 +3,4 @@ This changes will be for the next commit.
 this is a feature
 this is a bug fix
 stashing it
-resetting
+mixed resetting
