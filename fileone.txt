@@ -1,6 +1,5 @@
 This is a file.
-This changes will be for the next commit.
-this is a feature
-this is a bug fix
-stashing it
-mixed resetting
+
+function sub(int a, int a){
+    return a-b;
+}
