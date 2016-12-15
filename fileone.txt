@@ -2,4 +2,6 @@ This is a file.
 
 function sub(int a, int a){
     return a-b;
+function add(int a, int b){
+   return a + b;
 }
