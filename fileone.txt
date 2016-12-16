@@ -5,3 +5,6 @@ function sub(int a, int a){
 function add(int a, int b){
    return a + b;
 }
+function add(int a, int b){
+   return a + b;
+}
